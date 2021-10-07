@@ -5,3 +5,13 @@
   line-height: 54px;
   font-weight: 700;
 }
+
+.form{
+  display: flex;
+}
+
+.form input{
+  margin: 0 10px;
+  padding: 8px 30px;
+  font-size: 12px;
+}
