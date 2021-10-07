@@ -1,0 +1,17 @@
+.task-theme {
+  display: flex;
+  align-items: center;
+  flex: 1.5;
+}
+
+.collaps {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  background: linear-gradient(133.9deg, rgba(243, 71, 122, 0.7) 0.24%, rgba(136, 76, 178, 0.7) 95.04%);
+  display: block;
+}
+
+.task-theme-text {
+  margin-left: 5px;
+}

@@ -1,0 +1,7 @@
+.task-side-information {
+  display: flex;
+  align-items: center;
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+}

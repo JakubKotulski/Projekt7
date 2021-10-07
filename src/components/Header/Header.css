@@ -1,0 +1,14 @@
+.header {
+  padding: 30px 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-container{
+  display: flex;
+  align-items: center;
+}
+
+.header-container:last-of-type{
+  justify-content: end;
+}

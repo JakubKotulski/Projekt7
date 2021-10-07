@@ -1,0 +1,32 @@
+.status {
+  flex: 0.5;
+}
+
+.status-first {
+  height: 17px;
+  width: 77px;
+  border-radius: 8.5px;
+  font-size: 11px;
+  line-height: 18px;
+  text-align: center;
+}
+
+#status-orange {
+  background: rgba(242, 153, 74, 0.2);
+  color: #f2994a;
+}
+
+#status-blue {
+  color: #56ccf2;
+  background: rgba(86, 204, 242, 0.2);
+}
+
+#status-green {
+  background: rgba(39, 174, 96, 0.2);
+  color: #27ae60;
+}
+
+#status-red {
+  background: rgba(235, 87, 87, 0.2);
+  color: #eb5757;
+}

@@ -1,0 +1,41 @@
+.spectators {
+  display: flex;
+  align-items: center;
+  flex: 0.5;
+}
+
+.first-spectator {
+  background-color: #fbac65;
+}
+
+.second-spectator {
+  background-color: blue;
+  margin-left: -10px;
+}
+
+.third-spectator {
+  background-color: lightblue;
+  margin-left: -10px;
+}
+
+.more {
+  background-color: green;
+  color: white;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 10.55px;
+  margin-left: -10px;
+}
+
+.oval {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  margin: 0;
+}

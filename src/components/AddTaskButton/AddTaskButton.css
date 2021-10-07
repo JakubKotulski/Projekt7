@@ -1,0 +1,15 @@
+#add-button {
+  background-color: #884cb2;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 35px;
+  font-size: 12px;
+  line-height: 9px;
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+}
+
+img{
+  margin-left: 0;
+}

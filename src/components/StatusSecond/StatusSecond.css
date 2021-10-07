@@ -1,0 +1,30 @@
+.status-second {
+  display: flex;
+  align-items: center;
+  flex: 0.5;
+}
+
+.status-second-collaps {
+  height: 8px;
+  width: 8px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 2px solid;
+  margin-right: 3px;
+}
+
+#status-second-green {
+  border-color: green;
+}
+
+#status-second-yellow {
+  border-color: yellow;
+}
+
+#status-second-red {
+  border-color: red;
+}
+
+.status-second-text {
+  font-size: 12px;
+}

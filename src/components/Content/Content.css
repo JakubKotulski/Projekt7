@@ -1,0 +1,28 @@
+#content-padding {
+  padding: 30px 50px;
+}
+
+.task-box {
+  display: flex;
+  align-items: center;
+  padding: 20px 20px;
+  border-bottom: solid 1px lightgray;
+  padding-bottom: 20px;
+}
+
+.task-box:last-of-type {
+  border-bottom: none;
+}
+
+.completed-section {
+  display: flex;
+  align-items: center;
+}
+
+.completed-section .task-header {
+  padding-right: 15px;
+}
+
+.opacity-box{
+  opacity: 30%;
+}
